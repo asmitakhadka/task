@@ -16,6 +16,9 @@ namespace ConsoleApp2
             Console.WriteLine("please enter your last name");
             string name2 = Console.ReadLine();
             
+            Console.Writeline({name1} + {name2});
+            
+            
         }
     }
 }
